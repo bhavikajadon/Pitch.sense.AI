@@ -1,0 +1,201 @@
+startup,industry,season,ask_amount,equity_offered,sentiment_label,sentiment_score,investment_score,risk_level,verdict,actual_deal,predicted_deal
+FiveMinuteFurniture,Lifestyle/Home,3,250000.0,25.0,Neutral,0,61.0,Medium-Low,Consider,0,1
+BottleBright,Lifestyle/Home,6,75000.0,15.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+AuraBora,Food and Beverage,12,150000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Umano,Fashion/Beauty,7,150000.0,15.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+CowPots,Green/CleanTech,16,200000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+SafeGrabs,Lifestyle/Home,8,75000.0,12.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+DoorBot,Lifestyle/Home,5,700000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+Sleepy Baby,Children/Education,17,70000.0,25.0,Neutral,0,61.0,Medium-Low,Consider,1,1
+CopadiVino,Food and Beverage,2,300000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+RompN'Roll,Children/Education,1,300000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+Kisstixx,Fashion/Beauty,3,200000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+BroccoliWad,Food and Beverage,2,50000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+CocoTaps,Lifestyle/Home,9,150000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+KooknKap,Food and Beverage,5,50000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+EveDrop,Lifestyle/Home,6,75000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+HeidiHo,Food and Beverage,6,125000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+FloatBaby,Children/Education,7,150000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+Alchemize Fightwear,Fitness/Sports/Outdoors,17,250000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Cycloramic,Technology/Software,5,90000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+KidsLuv,Food and Beverage,11,200000.0,8.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+Ryan'sBarkery,Pet Products,4,25000.0,25.0,Neutral,0,61.0,Medium-Low,Consider,1,1
+TickMitt,Pet Products,16,250000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+ESAI,Children/Education,16,250000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+TwinZPillow,Children/Education,6,75000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+SuperPottyTrainer,Uncertain/Other,12,300000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Magic5,Fitness/Sports/Outdoors,13,500000.0,2.5,Neutral,0,61.0,Medium-Low,Consider,1,1
+TheSpooner,Fitness/Sports/Outdoors,7,400000.0,16.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Sweetkiwi,Food and Beverage,14,250000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+SundayNightSlowJams,Lifestyle/Home,5,75000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+PinkPicasso,Lifestyle/Home,13,400000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+RaisingWild,Fashion/Beauty,8,100000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+SBU,Fitness/Sports/Outdoors,4,300000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+CoinOut,Technology/Software,9,250000.0,7.5,Neutral,0,65.0,Medium-Low,Consider,1,1
+Co.alition,Technology/Software,7,200000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+CreatorCamp,Children/Education,16,350000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+LifeRaftTreats,Food and Beverage,16,250000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+Zomm,Lifestyle/Home,4,2000000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+TheWingman,Fitness/Sports/Outdoors,9,200000.0,12.5,Neutral,0,65.0,Medium-Low,Consider,0,1
+Bubba’s-QBBQ,Food and Beverage,5,300000.0,15.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+PuppyCake,Pet Products,3,50000.0,25.0,Neutral,0,61.0,Medium-Low,Consider,0,1
+Nopalera,Health/Wellness,14,300000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+TheHappyBirdwatcher,Pet Products,16,150000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+MagicDates,Food and Beverage,13,150000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+BusyBabyMat,Children/Education,12,250000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+Mother/Poppi,Food and Beverage,10,400000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Nohbo,Green/CleanTech,7,100000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+GreaseMonkeyWipes,Lifestyle/Home,1,40000.0,40.0,Neutral,0,61.0,Medium-Low,Consider,1,1
+Lite-Netics,Lifestyle/Home,5,125000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+PlopStar,Lifestyle/Home,11,150000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+TheDuo,Lifestyle/Home,15,100000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+VelocitySigns,Business Services,5,225000.0,15.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+PressWaffleCo.,Food and Beverage,10,200000.0,8.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+LittleSaints,Food and Beverage,16,500000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+HandOutGloves,Fitness/Sports/Outdoors,8,150000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+CabinetHealth,Health/Wellness,14,500000.0,2.5,Neutral,0,61.0,Medium-Low,Consider,1,1
+Mee-Ma'sGumbo,Food and Beverage,4,200000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Autio,Technology/Software,14,1000000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+RewardStock,Technology/Software,10,200000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Trunkster,Lifestyle/Home,7,1400000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Solsource,Lifestyle/Home,9,500000.0,3.0,Neutral,0,61.0,Medium-Low,Consider,1,1
+GatsbyChocolate,Food and Beverage,15,500000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+PiperWai,Fashion/Beauty,7,50000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+LunaMagic,Fashion/Beauty,12,200000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+NightCap,Food and Beverage,12,60000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Mella,Pet Products,15,250000.0,2.5,Neutral,0,61.0,Medium-Low,Consider,1,1
+CoffeeMeetsBagel,Technology/Software,6,500000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+XCraft,Technology/Software,7,500000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+ShowerToga,Lifestyle/Home,10,80000.0,33.0,Neutral,0,61.0,Medium-Low,Consider,1,1
+ThePizzaCupcake,Food and Beverage,12,125000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Matador,Fashion/Beauty,15,250000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+Anytongs,Lifestyle/Home,14,150000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Muvez,Fashion/Beauty,11,200000.0,15.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+HatchBaby,Children/Education,7,250000.0,2.5,Neutral,0,61.0,Medium-Low,Consider,1,1
+TushBaby,Children/Education,10,200000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+TheFizz,Food and Beverage,1,150000.0,25.0,Neutral,0,61.0,Medium-Low,Consider,0,1
+BunnyEyez,Fashion/Beauty,15,200000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+BlondiesCookies,Food and Beverage,3,200000.0,3.0,Neutral,0,61.0,Medium-Low,Consider,0,1
+BabyToon,Children/Education,11,50000.0,50.0,Neutral,0,58.0,Medium-Low,Conditional,1,1
+TippiToes,Fitness/Sports/Outdoors,2,30000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Brightwheel,Children/Education,7,400000.0,4.0,Neutral,0,61.0,Medium-Low,Consider,1,1
+Rethink,Technology/Software,8,100000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Fortress,Fashion/Beauty,11,600000.0,15.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+MagicCook,Food and Beverage,6,100000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Wondercide,Pet Products,7,500000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Rumpl,Lifestyle/Home,12,600000.0,4.0,Neutral,0,61.0,Medium-Low,Consider,0,1
+popSLATE,Technology/Software,7,500000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+WalkeePaws,Pet Products,12,150000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+NanaHats,Food and Beverage,14,150000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+MyColdSnap,Food and Beverage,4,50000.0,100.0,Neutral,0,58.0,Medium-Low,Conditional,0,1
+HamptonAdams,Fitness/Sports/Outdoors,13,500000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+ScreenMend,Lifestyle/Home,5,30000.0,25.0,Neutral,0,61.0,Medium-Low,Consider,1,1
+PiliHunters,Food and Beverage,11,325000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+BoostOxygen,Health/Wellness,11,1000000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+WalletBuckle,Fashion/Beauty,8,500000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+Baobab,Fashion/Beauty,11,150000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+Wondry,Food and Beverage,14,185000.0,8.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+TheBobblePlace,Children/Education,1,75000.0,18.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+Nubrella,Fashion/Beauty,1,200000.0,25.0,Neutral,0,61.0,Medium-Low,Consider,1,1
+GranolaGourmet,Food and Beverage,1,175000.0,25.0,Neutral,0,61.0,Medium-Low,Consider,0,1
+TheMightyCarver,Lifestyle/Home,12,100000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+DollopGourmet,Food and Beverage,7,75000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+SnoofyBee,Children/Education,9,85000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+PepperPong,Fitness/Sports/Outdoors,16,150000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Makers Social,Media/Entertainment,17,150000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+BouquetBar,Lifestyle/Home,9,150000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+PinchMeTherapyDough,Health/Wellness,12,300000.0,7.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Flightpath Golf,Fitness/Sports/Outdoors,17,150000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+TheOriginalComfy,Fashion/Beauty,9,50000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Ooakshell,Fashion/Beauty,13,150000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+YoungKingHairCare,Fashion/Beauty,13,225000.0,2.5,Neutral,0,61.0,Medium-Low,Consider,0,1
+HowDoYouRoll?,Food and Beverage,4,1000000.0,12.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+ChangEd,Children/Education,9,250000.0,15.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+"Ready,Set,Food!",Children/Education,11,350000.0,7.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Pinblock,Children/Education,8,100000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Poplight,Lifestyle/Home,15,150000.0,8.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+IceShaker,Fitness/Sports/Outdoors,9,100000.0,15.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Hopscotch,Technology/Software,12,400000.0,4.0,Neutral,0,61.0,Medium-Low,Consider,1,1
+Saucemoto,Automotive,10,45000.0,15.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Ride-OnCarry-On,Travel,2,50000.0,25.0,Neutral,0,61.0,Medium-Low,Consider,1,1
+ManMedals,Uncertain/Other,5,10000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+ZinePak,Media/Entertainment,6,725000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+TheMenschOnABench,Lifestyle/Home,6,150000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+CordaRoy's,Lifestyle/Home,4,200000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Fishwife,Food and Beverage,15,350000.0,4.0,Neutral,0,61.0,Medium-Low,Consider,1,1
+GrindBasketball,Business Services,12,250000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Goverre,Lifestyle/Home,8,200000.0,13.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Vurtego,Fitness/Sports/Outdoors,2,500000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+GiftCardRescue,Technology/Software,1,150000.0,30.0,Neutral,0,61.0,Medium-Low,Consider,1,1
+Fundraiser Blankets,Children/Education,17,300000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+ZipString,Children/Education,14,100000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+DomeDock,Fashion/Beauty,16,100000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+CircadianOptics,Health/Wellness,11,750000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+RigStrips,Children/Education,16,300000.0,7.5,Neutral,0,65.0,Medium-Low,Consider,1,1
+KittyKasas,Pet Products,10,200000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Buzzy4Shots,Health/Wellness,5,500000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+KaansDesigns,Fashion/Beauty,16,75000.0,15.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+AnimatedLure,Lifestyle/Home,12,325000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Frends,Fashion/Beauty,7,1000000.0,7.6,Neutral,0,65.0,Medium-Low,Consider,0,1
+NoPhone,Uncertain/Other,7,25000.0,15.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+CashmereHair,Fashion/Beauty,5,45000.0,15.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+Recharj,Business Services,9,75000.0,15.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+FlingGolf,Fitness/Sports/Outdoors,12,300000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Pashko,Fashion/Beauty,13,500000.0,2.5,Neutral,0,61.0,Medium-Low,Consider,0,1
+RockBands,Fashion/Beauty,4,100000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+CatAmazing,Pet Products,13,200000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Z-Coil,Fashion/Beauty,17,250000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+TheMissionBelt,Fashion/Beauty,4,50000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+WannaDate?,Food and Beverage,11,100000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+EmazingLights,Media/Entertainment,6,650000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+InnovationPet,Pet Products,7,250000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+JumpForward,Children/Education,1,150000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Rekkie,Fitness/Sports/Outdoors,15,300000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Larq,Health/Wellness,12,500000.0,1.0,Neutral,0,61.0,Medium-Low,Consider,1,1
+HargittMarineServices,Fitness/Sports/Outdoors,5,250000.0,25.0,Neutral,0,61.0,Medium-Low,Consider,0,1
+TristenIkaika,Lifestyle/Home,13,250000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+TheCleanBottle,Food and Beverage,3,60000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+VegasMagicShow,Media/Entertainment,3,1500000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+BehaveBras,Fashion/Beauty,13,150000.0,15.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+IceBeanie,Food and Beverage,12,50000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Lavabox,Lifestyle/Home,14,200000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Cricket’sCandy,Children/Education,16,275000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+Milkify,Children/Education,14,400000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+GamedayCouture,Fashion/Beauty,6,500000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Snorinator,Health/Wellness,17,100000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Litter,Fashion/Beauty,3,80000.0,51.0,Neutral,0,58.0,Medium-Low,Conditional,1,1
+SoaPen,Lifestyle/Home,13,100000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+SeeTheWayISee,Fashion/Beauty,14,250000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+RinseKit,Fitness/Sports/Outdoors,8,250000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+HotTot,Children/Education,4,50000.0,15.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+GobieH20,Travel,4,300000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+DingleDangle,Children/Education,15,75000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+KodiakCakes,Food and Beverage,5,500000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+Pawnix,Pet Products,13,150000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+BoogieBoxFitness,Fitness/Sports/Outdoors,1,700000.0,70.0,Neutral,0,58.0,Medium-Low,Conditional,0,1
+Nomiku,Food and Beverage,8,250000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+TheFrozenFarmer,Food and Beverage,11,125000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+RoqInnovation,Lifestyle/Home,13,200000.0,15.0,Positive,2,70.0,Low,Consider,1,1
+Heather'sChoice,Food and Beverage,15,250000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+Outer,Lifestyle/Home,11,750000.0,4.0,Neutral,0,61.0,Medium-Low,Consider,1,1
+Radiate,Fitness/Sports/Outdoors,9,50000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Henry'sHumdingers,Food and Beverage,5,150000.0,25.0,Neutral,0,61.0,Medium-Low,Consider,1,1
+Forte3D,Fashion/Beauty,17,250000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Street FC,Technology/Software,17,250000.0,2.5,Neutral,0,61.0,Medium-Low,Consider,1,1
+Pristine,Health/Wellness,10,50000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+BodyWalking,Fashion/Beauty,4,100000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+JaneFoodie,Food and Beverage,16,300000.0,15.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Robin,Fitness/Sports/Outdoors,9,500000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+GladiatorLacrosse,Fitness/Sports/Outdoors,7,100000.0,15.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+CaveShake,Food and Beverage,10,250000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+LiddUp,Food and Beverage,4,100000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+FryAway,Lifestyle/Home,14,250000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+MisfitFoods,Food and Beverage,12,250000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+TheRealElf,Lifestyle/Home,13,125000.0,25.0,Neutral,0,61.0,Medium-Low,Consider,1,1
+PulpPantry,Food and Beverage,13,500000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+TheCaddyGirls,Fitness/Sports/Outdoors,6,100000.0,20.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+IceChipsCandy,Food and Beverage,4,250000.0,15.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+Mama'sMilkBox,Fashion/Beauty,8,200000.0,20.0,Neutral,0,67.4,Medium-Low,Consider,0,1
+VirtuixOmni,Electronics,5,2000000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,0,1
+Quickflip,Fashion/Beauty,10,500000.0,5.0,Neutral,0,65.0,Medium-Low,Consider,1,1
+LlamaBrew,Green/CleanTech,1,125000.0,10.0,Neutral,0,65.0,Medium-Low,Consider,0,1
